@@ -6,3 +6,4 @@ Git has a mutable called stage.
 
 
 Creating a new branch
+Cearting a new branch is quick AND simple.
